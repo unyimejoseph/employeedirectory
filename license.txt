@@ -1,0 +1,36 @@
+AUTHOR
+----------------------
+
+
+DOCUMENTATION FOR COMPANY DIRECTORY
+	ABOUT
+	Company Directory is a web based application that enables company owners to register their companies. Its focuses on the main aspects of managing a large group of people allowing the users to view a simple and brief overview of a company, its departments and employees.
+
+	HOW ITS WORKS
+	1 	sign up
+			the user will need to sign up first before proceeding to the next step
+	2	add company
+			after signing up the user can go ahead to add he/her company's details
+	3	add departments
+			departments which also means the services a particular company renders to its clients can be added
+	4	add employees
+			the last step is adding the employees according to the department they work with.
+
+
+	FEATURES/IMPORTANCE
+	1	GIVES USER EASY ACCESS
+			there some cases where a client needs the services of a particular company but does not know who exactly to contact, some will call friends who will call another friend, imagine the amount of time wasted just to get in touch with a company. some will start searching online but end up disppointed plus time wasted again. company dircetory is here to ease that stress. visit our site and browse the list of companies.
+				a. you can contact the company directly as their contact details will be visibe.
+				b.	go through the department list of that company see its details 
+				c.	view the employess list and contact any of the employees, there and then established a business relation and get your work done without much stress. 
+
+	2 	REFERRALS MADE EASY
+			 When directing a client or coworker to someone else in the company, most people scramble to find the proper contact information to share. company Directory ensures all employees are searchable and their information is up-to-date.
+
+	3	SEPARATE PERSONAL AND PROFESSIONAL CONTACT
+			company Directory operates as a separate app on so business contacts don’t mingle with your personal contacts. No need to worry about writing out your colleagues in a diary as they are always there anytime you are in need of it.
+
+
+	4	Coworker information is available everywhere you go
+			Makes it easy to find and stay connected with everyone throughout the company. 
+			Search for employees by browsing and searching departments, employee profiles
